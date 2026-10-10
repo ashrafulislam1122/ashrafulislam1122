@@ -1,30 +1,26 @@
 
+<!-- ===================== ANIMATED HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:00D4FF,100:7F00FF&text=Ashraful%20Islam%20Milon&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%26%20Next.js%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated Profile Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ashraful%20Islam%20Milon&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Creative%20Learner&descAlignY=58&descSize=16" width="100%" alt="Profile Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashraful+Islam+Milon+%F0%9F%91%8B;Front-End+Developer+in+Progress;Building+Responsive+Web+Experiences;Learning+React+and+Next.js;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing Animation" />
+
+<br/>
 
 <a href="https://github.com/ashrafulislam1122">
-<img src="https://readme-typing-svg.demolab.com?
-  
-  
-  
-  
-  
-  font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;Learning+React.js+%26+Next.js;Turning+ideas+into+code" alt="Typing Animation" />
-</a>
-
-<p>
-<a href="https://github.com/ashrafulislam1122">
-<img src="https://komarev.com/ghpvc/?username=ashrafulislam1122&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashrafulislam1122&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </a>
 <a href="https://github.com/ashrafulislam1122?tab=followers">
-<img src="https://img.shields.io/github/followers/ashrafulislam1122?label=FOLLOWERS&style=for-the-badge&color=7F00FF" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ashrafulislam1122?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </a>
-</p>
 
 </div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -36,8 +32,11 @@ Hi! I'm **Ashraful Islam Milon**, a passionate learner and aspiring **Front-End 
 - 🎨 Interested in responsive design and modern UI
 - 🚀 Building projects to improve my coding skills
 - 📚 Learning something new every day
+- 🎯 My goal is to become a skilled professional developer
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
@@ -45,93 +44,126 @@ Hi! I'm **Ashraful Islam Milon**, a passionate learner and aspiring **Front-End 
 
 ### Front-End Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Front-End Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Front-End Skills" />
 
-### Tools & Technologies
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="Development Tools" />
 
 </div>
 
 ---
+
+<!-- ===================== GITHUB TROPHIES ===================== -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashrafulislam1122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<!-- ===================== FEATURED PROJECT ===================== -->
 
 ## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/ashrafulislam1122/B14-A7-Bazar-Dor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislam1122&repo=B14-A7-Bazar-Dor&theme=tokyonight&hide_border=true" alt="BazarDor Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashrafulislam1122&repo=B14-A7-Bazar-Dor&theme=tokyonight&hide_border=true" alt="BazarDor Project" />
 </a>
 
 </div>
 
-### 🛒 BazarDor
+### 🛒 BazarDor — Daily Market Price Tracker
 
-A market-price website project designed to help users explore market prices.
+A web development project focused on displaying daily market prices and helping users explore market information.
 
-- 🔗 **Repository:** [BazarDor](https://github.com/ashrafulislam1122/B14-A7-Bazar-Dor)
-- 💻 **Focus:** Web development and responsive UI
-- 🧩 Add the main features you actually implemented.
+- 📊 Market price information
+- 💻 Responsive web interface
+- 🌱 Built as part of my web development learning journey
+
+🔗 **Repository:** [B14-A7-Bazar-Dor](https://github.com/ashrafulislam1122/B14-A7-Bazar-Dor)
 
 ---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashrafulislam1122&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashrafulislam1122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislam1122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislam1122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=ashrafulislam1122&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashrafulislam1122&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafulislam1122&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ashrafulislam1122">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<!-- Add your real LinkedIn and portfolio links here if available. -->
-
-<br/><br/>
-
-<i>"Great things are built one commit at a time."</i>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:090979&height=110&section=footer" width="100%" alt="Animated Footer" />
-
-<div align="center">
+<!-- ===================== SNAKE ANIMATION ===================== -->
 
 ## 🐍 My Contribution Snake
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
 
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ashrafulislam1122">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://github.com/ashrafulislam1122/B14-A7-Bazar-Dor">
+  <img src="https://img.shields.io/badge/My%20Project-BazarDor-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="BazarDor Repository" />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Profile Footer" />
 
 </div>
