@@ -1,7 +1,10 @@
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:1d4ed8,100:06b6d4&height=230&section=header&text=Ashraful%20Islam%20Milon&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=FRONT-END%20DEVELOPER%20%7C%20REACT%20%26%20NEXT.JS%20LEARNER&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0f172a%2C50%3A2563eb%2C100%3A06b6d4&amp;height=220&amp;section=header&amp;text=Ashraful%20Islam%20Milon&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Front-End%20Developer%20%7C%20React%20%26%20Next.js%20Learner&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Ashraful Islam Milon profile banner"/>
+
+
 
 <a href="https://github.com/ashrafulislam1122">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashraful+Islam+Milon+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;Learning.+Building.+Growing." alt="Animated typing text"/>
