@@ -4,7 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:00D4FF,100:7F00FF&text=Ashraful%20Islam%20Milon&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%26%20Next.js%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Animated Profile Banner" />
 
 <a href="https://github.com/ashrafulislam1122">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;Learning+React.js+%26+Next.js;Turning+ideas+into+code" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?
+  
+  
+  
+  
+  
+  font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+modern+web+experiences;Learning+React.js+%26+Next.js;Turning+ideas+into+code" alt="Typing Animation" />
 </a>
 
 <p>
@@ -114,5 +120,18 @@ A market-price website project designed to help users explore market prices.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:090979&height=110&section=footer" width="100%" alt="Animated Footer" />
+
+<div align="center">
+
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ashrafulislam1122/ashrafulislam1122/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
+
 
 </div>
